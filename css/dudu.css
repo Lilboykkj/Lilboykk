@@ -1,0 +1,19 @@
+body {
+    background: #cccccc;
+}
+
+p {
+    text-align: center;
+}
+
+#p1 {
+    font-size: 20px;
+}
+
+strong {
+    color: red;
+}
+
+.KKJ {
+    font-style: italic;
+}
